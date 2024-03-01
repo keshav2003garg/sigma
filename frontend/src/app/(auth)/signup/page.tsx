@@ -9,7 +9,6 @@ import { AuthForm } from '@/components/auth/auth-form';
 export const metadata: Metadata = {
     title: 'sigma - Signup',
     description: 'Signup page for sigma, a video processing api service.',
-    
 };
 
 export default function Signup() {
